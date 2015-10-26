@@ -1,0 +1,22 @@
+{
+  "name": "halyard-dash",
+  "version": "0.1.0",
+  "author": "Les Aker",
+  "summary": "Install Dash via brew cask",
+  "license": "MIT",
+  "source": "https://github.com/halyard/puppet-dash",
+  "project_page": "https://github.com/halyard/puppet-dash",
+  "issues_url": "https://github.com/halyard/puppet-dash/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Darwin",
+      "operatingsystemmajrelease": [
+        "14",
+        "15"
+      ]
+    }
+  ]
+}
